@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/shodikhuja/http/pkg/banners"
+	"github.com/shodikhuja83/http/pkg/banners"
 	
 	"encoding/json"
 	"log"
